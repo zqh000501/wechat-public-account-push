@@ -8,15 +8,13 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
-
+  APP_ID : '' ,
+“wx5baa420485c46c71”
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
-
+"4392e7fff0fab174953afe197ad1ad03"
   PROVINCE: '广东',
-  CITY: '惠州',
-
-  USERS: [
+  城市：“圳硕硕“
     {
       // 想要发送的人的名字
       name: '宝贝',
